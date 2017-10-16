@@ -1,0 +1,16 @@
+h3{
+    background-color: green;
+    width: 375px;
+}
+h1{
+    text-decoration: underline;
+}
+
+.red{
+    background-color: red;
+    width: 320px;
+}
+
+input{
+    margin: 10px;
+}
